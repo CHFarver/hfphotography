@@ -1,2 +1,2 @@
-# hfphotography
+# HF Photography
 Website for HF Photography
